@@ -33,13 +33,8 @@ The project also integrates a **Flask backend** for handling authentication (log
 
 ---
 ## 🎥 Demo Video
-👉 [Watch Demo](images/Sample_Video.mp4)  
+👉 [Download Demo Video](https://github.com/MohammadSahil007/Infynix_Solution/releases/download/v1.0/Sample_Video.mp4)
 
-<p align="center">
-  <a style = "height:30,width:70" href="images/Sample_Video.mp4" download="Infynix_Demo.mp4">
-    <img width="150" height="75" src="https://img.shields.io/badge/⬇️_Download_Demo_Video-blue?style=for-the-badge" />
-  </a>
-</p>
 
 ---
 
