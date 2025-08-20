@@ -34,7 +34,7 @@ The project also integrates a **Flask backend** for handling authentication (log
 ---
 
 ## 🎥 Demo Video
-👉 [Watch Demo](videos/demo.mp4)  
+👉 [Watch Demo](images/Sample_Video.mp4)  
 
 *(Tip: Upload your video to YouTube and replace with a clickable thumbnail for smoother recruiter experience, e.g. 👇)*
 
