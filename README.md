@@ -37,7 +37,7 @@ The project also integrates a **Flask backend** for handling authentication (log
 
 <p align="center">
   <a style = "height:30,width:70" href="images/Sample_Video.mp4" download="Infynix_Demo.mp4">
-    <img width="70" height="30" src="https://img.shields.io/badge/⬇️_Download_Demo_Video-blue?style=for-the-badge" />
+    <img width="150" height="75" src="https://img.shields.io/badge/⬇️_Download_Demo_Video-blue?style=for-the-badge" />
   </a>
 </p>
 
