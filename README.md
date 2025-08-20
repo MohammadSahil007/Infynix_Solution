@@ -32,14 +32,14 @@ The project also integrates a **Flask backend** for handling authentication (log
 </p>
 
 ---
-
 ## 🎥 Demo Video
 👉 [Watch Demo](images/Sample_Video.mp4)  
 
-*(Tip: Upload your video to YouTube and replace with a clickable thumbnail for smoother recruiter experience, e.g. 👇)*
-
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/YOUR_VIDEO_ID)
-
+<p align="center">
+  <a href="images/Sample_Video.mp4" download="Infynix_Demo.mp4">
+    <img src="https://img.shields.io/badge/⬇️_Download_Demo_Video-blue?style=for-the-badge" />
+  </a>
+</p>
 ---
 
 ## 🛠️ Tech Stack
